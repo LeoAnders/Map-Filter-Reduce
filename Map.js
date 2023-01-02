@@ -1,6 +1,6 @@
 
-//Map
-let array = [
+//MAP
+let loja = [
 
     { nome:'...',preco:'26.20',desconto: 0.2 },
     { nome:'...',preco:'36.30',desconto: 0.3 },
@@ -15,6 +15,6 @@ function desconto(produto) {
     return produto.preco * (1 - produto.desconto)
 }
 
-let resultado = array.map(desconto)
+let resultado = loja.map(desconto)
 console.log(resultado);
 
