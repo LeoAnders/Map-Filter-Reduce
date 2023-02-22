@@ -1,13 +1,4 @@
 <h1 align="center">Map-Filter-Reduce</h1>
-  
-  <div align="center">
-<a href="mailto:leonardoandrs15@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/leonardo-matheus-anders-23706920a" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -134,6 +125,7 @@ console.log(resultado);
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
 
 
 
