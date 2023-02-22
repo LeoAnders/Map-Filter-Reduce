@@ -128,8 +128,6 @@ console.log(resultado);
 
 <h1 align="center">Conclusão</h1>
 
-- Sempre utilizo a [técnica Feynman](https://ead.pucpr.br/blog/tecnica-feynman#:~:text=A%20t%C3%A9cnica%20Feynman%20%C3%A9%20uma,por%20exemplo%2C%20a%20Revolu%C3%A7%C3%A3o%20Francesa.) na leitura e nos meus estudos. Foi assim que criei esse readme para vermos a diferença entre os métodos **map()**, **filter()** e **reduce()** <br>
-
 - Todo conhecimento que obtive foi através do meu curso ["ProgBR"](https://programadorbr.com/) e do canal [Cod3r Cursos](https://www.youtube.com/@cod3r) no youtube. 
 
 
